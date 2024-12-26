@@ -63,16 +63,6 @@ This project is a web-based tool designed to compare translations from multiple 
 
 ---
 
-## Screenshots
-
-**1. Input and Language Selection:**  
-![Input Screen](path-to-screenshot)
-
-**2. Translation Comparison:**  
-![Comparison Results](path-to-screenshot)
-
----
-
 ## Contributions
 
 - **API Integration and Error Handling**: Naveen Singh  
