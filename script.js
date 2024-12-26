@@ -122,7 +122,7 @@ function compareTranslationsWithOpenAI(originalText, googleTranslation, myMemory
   });
 }
 
-// Custom function to evaluate translations by Sanidhya Shrivastava
+// Custom function to evaluate translations
 function evaluateTranslations(originalText, translation1, translation2) {
   const metrics = [];
 

@@ -63,13 +63,6 @@ This project is a web-based tool designed to compare translations from multiple 
 
 ---
 
-## Contributions
-
-- **API Integration and Error Handling**: Naveen Singh  
-- **Frontend Development and Fallback Logic**: Sanidhya Shrivastava  
-
----
-
 ## Notes
 
 - The tool requires an active OpenAI API key for detailed translation comparisons.
