@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .translation-section,
+  .response-section {
+    width: 60vw;
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px 0;
+    padding: 20px;
+  }
+  
+  textarea {
+    width: 50vw;
+    height: 100px;
+  }
+  
+  .ab-normbutton {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .ab-normbutton:hover {
+    background-color: #0056b3;
+  }
+  
+  .response-section {
+    background-color: #ffffcc;
+  }
+  
